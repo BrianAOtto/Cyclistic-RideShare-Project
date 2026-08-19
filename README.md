@@ -44,13 +44,14 @@ How do annual members and casual riders use Cyclistic bikes differently?
 **4. Analyze**
 The dashboard includes the following views:
 
-**#	Chart	Insight Focus**
-1	Bike Type: Member vs. Casual	Bike type preference by rider type
-2	Seasonal Trends	Trip volume by month
-3	Weekday vs. Weekend Pattern	Trip volume by day of week
-4	Commute vs. Leisure Timing	Trip volume by hour of day
-5	Average Daily Ride Duration	Ride duration by day of week
-6	Start Station Trips — Member vs. Casual	Geographic usage intensity by rider type
+| # | Chart | Insight Focus |
+|---|---|---|
+| 1 | Bike Type: Member vs. Casual | Bike type preference by rider type |
+| 2 | Seasonal Trends | Trip volume by month |
+| 3 | Weekday vs. Weekend Pattern | Trip volume by day of week |
+| 4 | Commute vs. Leisure Timing | Trip volume by hour of day |
+| 5 | Average Daily Ride Duration | Ride duration by day of week |
+| 6 | Start Station Trips — Member vs. Casual | Geographic usage intensity by rider type |
 
 An intro KPI tile shows total trip volume for Members vs. Casual riders to anchor the dashboard.
 
@@ -69,6 +70,7 @@ View the interactive dashboard on Tableau Public → (link pending — dashboard
 **3. Promotional campaigns tied to peak usage** — Run limited-time membership offers during peak season and weekends, paired with referral incentives for existing members, to convert riders who are already primed to upgrade.
 
 **Repository Contents:**
+
 ├── README.md
 ├── data/                                       # SQL Server scripts — run in order
 │   ├── 01_bulk_insert_consolidated_script.sql  # creates divvy_tripdata_consolidated (if not already present) and bulk-loads the 12 monthly CSVs
