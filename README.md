@@ -74,6 +74,7 @@ An intro KPI tile shows total trip volume for Members vs. Casual riders to ancho
 View the interactive dashboard on Tableau Public → (link pending — dashboard is being finalized, including an update to the station map exports; link will be added once published)
 
 **6. (Act):**
+
 **1. Targeted, timing-aware advertising** — Use digital channels (social media, email newsletters, the mobile app) to highlight the convenience and cost savings of annual membership, timed to when casual ridership is highest: weekends and the August–September peak season.
 **2. Membership-focused content** — Showcase the concrete benefits of membership (ease of access, availability of both bike types, exclusive perks) through content and testimonials from current members, aimed at casual riders who are already familiar with and using Cyclistic.
 **3. Promotional campaigns tied to peak usage** — Run limited-time membership offers during peak season and weekends, paired with referral incentives for existing members, to convert riders who are already primed to upgrade.
@@ -90,8 +91,10 @@ View the interactive dashboard on Tableau Public → (link pending — dashboard
 └── docs/                                       # data dictionary and full case study write-up
 
 **License**
+
 Cyclistic historical bike trip data provided by Motivate International Inc.
 
 **About Me**
+
 I'm Brian Otto, a data analyst and project manager with 20+ years of experience in banking and technology, including 15 years at JPMorgan Chase. I'm building on that foundation with hands-on SQL, Tableau, and Python projects like this one — pursuing certifications (Google Data Analytics, and currently the Salesforce Tableau Data Analyst cert) to formalize and extend those skills.
 
