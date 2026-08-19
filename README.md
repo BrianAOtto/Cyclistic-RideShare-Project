@@ -16,30 +16,42 @@ How do annual members and casual riders use Cyclistic bikes differently?
 
 **Project requirements:**
 
-•	How do annual members and casual riders use Cyclistic bikes differently?
+•	How do annual members and casual riders use Cyclistic bikes differently?.
 •	Why would casual riders buy Cyclistic annual memberships?
-•	How can Cyclistic use digital media to influence casual riders to become members?
+•	How can Cyclistic use digital media to influence casual riders to become members?.
 
 **Objective:** Provide the Cyclistic marketing team with actionable insights to support this decision-making.
 
 **2. Prepare**
 
-•	Historical trip data provided by Motivate International Inc. under license
-•	Data sourced as 12 monthly CSV files, imported into SQL Server
-•	Scope: trip data across 12 months, April 2025 – March 2026
-•	~3.67 million rides analyzed after cleaning
-•	Fields include ride ID, rideable type, start/end times, start/end station, coordinates, and rider type (member/casual)
-•	Data credibility assessed: source is licensed, first-party trip data, reasonably current and comprehensive for the analysis period
+•	Historical trip data provided by Motivate International Inc. under license.
+
+•	Data sourced as 12 monthly CSV files, imported into SQL Server.
+
+•	Scope: trip data across 12 months, April 2025 – March 2026.
+
+•	~3.67 million rides analyzed after cleaning.
+
+•	Fields include ride ID, rideable type, start/end times, start/end station, coordinates, and rider type (member/casual).
+
+•	Data credibility assessed: source is licensed, first-party trip data, reasonably current and comprehensive for the analysis period.
 
 **3. Process**
 
-•	Combined the 12 monthly files into a single file in SQL Server for exploration, cleaning, and analysis
-•	Cleaned and validated in SQL Server, then connected to Tableau for visualization
-•	Removed/handled invalid or incomplete records
-•	Standardized categorical values (e.g. rideable type labels, day-of-week formatting)
-•	Built a supplementary ride-level export (ride ID, station, rider type, lat/lng) to support accurate station-level mapping, after identifying that a pre-aggregated station dataset was masking rider-type differences
-•	Cross-validated chart-level aggregates against direct SQL queries to confirm accuracy
-•	Documented the data model to support both business stakeholders and analytical teams
+•	Combined the 12 monthly files into a single file in SQL Server for exploration, cleaning, and analysis.
+
+•	Cleaned and validated in SQL Server, then connected to Tableau for visualization.
+
+•	Removed/handled invalid or incomplete records.
+
+•	Standardized categorical values (e.g. rideable type labels, day-of-week formatting).
+
+•	Built a supplementary ride-level export (ride ID, station, rider type, lat/lng) to support accurate station-level mapping, after identifying that a pre-aggregated station dataset was masking rider-type differences.
+
+•	Cross-validated chart-level aggregates against direct SQL queries to confirm accuracy.
+
+•	Documented the data model to support both business stakeholders and analytical teams.
+
 
 **Tools used:**
 
