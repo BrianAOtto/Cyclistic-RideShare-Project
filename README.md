@@ -84,7 +84,7 @@ Based on the findings above, three recommendations to convert casual riders into
 
 ```
 ├── README.md
-├── data/                                       # SQL Server scripts — run in order
+├── script/                                     # SQL Server scripts — run in order
 │   ├── 01_bulk_insert_consolidated_script.sql  # creates divvy_tripdata_consolidated (if not already present) and bulk-loads the 12 monthly CSVs
 │   ├── 02_data_exploration_script.sql          # initial data profiling: data types, nulls, duplicates, date range, duration outliers
 │   ├── 03_data_cleaning_script.sql             # creates divvy_tripdata_cleaned from the consolidated table (filters, calculated columns)
