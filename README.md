@@ -65,9 +65,13 @@ An intro KPI tile shows total trip volume for Members vs. Casual riders to ancho
 **Key findings:**
 
 •	**Volume:** Members account for a substantially higher share of total trips than casual riders across nearly all hours of the day.
+
 •	**Bike type:** Casual riders show no strong preference between classic and electric bikes, using both at similar rates — a potential opening for targeted bike-type promotions.
+
 •	**Timing:** Both rider types peak in the evening, with secondary peaks in the morning and around lunch. The gap between Member and Casual ridership widens most sharply at 8 AM and 5 PM, consistent with Members using bikes for commuting.
+
 •	**Geography:** Station usage is concentrated in the same general area for both groups (near parks, museums, and the riverfront), but Casual riders show denser clustering around landmark and leisure destinations like Navy Pier.
+
 
 **Section 5 (Share):**
 
@@ -76,7 +80,9 @@ View the interactive dashboard on Tableau Public → (link pending — dashboard
 **6. (Act):**
 
 **1. Targeted, timing-aware advertising** — Use digital channels (social media, email newsletters, the mobile app) to highlight the convenience and cost savings of annual membership, timed to when casual ridership is highest: weekends and the August–September peak season.
+
 **2. Membership-focused content** — Showcase the concrete benefits of membership (ease of access, availability of both bike types, exclusive perks) through content and testimonials from current members, aimed at casual riders who are already familiar with and using Cyclistic.
+
 **3. Promotional campaigns tied to peak usage** — Run limited-time membership offers during peak season and weekends, paired with referral incentives for existing members, to convert riders who are already primed to upgrade.
 
 **Repository Contents:**
