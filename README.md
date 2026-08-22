@@ -64,7 +64,7 @@ An intro KPI tile shows total trip volume for Members vs. Casual riders to ancho
 - **Volume:** Members account for a substantially higher share of total trips than casual riders across nearly all hours of the day.
 - **Bike type:** Casual riders show no strong preference between classic and electric bikes, using both at similar rates — a potential opening for targeted bike-type promotions.
 - **Timing:** Both rider types peak in the evening, with secondary peaks in the morning and around lunch. The gap between Member and Casual ridership widens most sharply at 8 AM and 5 PM, consistent with Members using bikes for commuting.
-- **Geography:** Station usage is concentrated in the same general area for both groups (near parks, museums, and the riverfront), but Casual riders show denser clustering around landmark and leisure destinations like Navy Pier.
+- **Geography:** Members' most frequent start stations cluster around universities, residential areas, hospitals, schools, and transit hubs — consistent with commuting and everyday errands. Casual riders' most frequent start stations cluster around museums, parks, beaches, and piers — consistent with recreational and sightseeing trips rather than daily commuting.
 
 ## 5. Share
 
@@ -95,7 +95,7 @@ Based on the findings above, three recommendations to convert casual riders into
 
 ## License
 
-Cyclistic historical bike trip data provided by Motivate International Inc.
+Cyclistic historical bike trip data provided by Motivate International Inc. under this [data license agreement](https://divvybikes.com/data-license-agreement).
 
 ## About Me
 
