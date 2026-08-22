@@ -68,7 +68,7 @@ An intro KPI tile shows total trip volume for Members vs. Casual riders to ancho
 
 ## 5. Share
 
-View the interactive dashboard on Tableau Public → *(link pending — dashboard is being finalized, including an update to the station map exports; link will be added once published)*
+View the interactive dashboard on Tableau Public → Cyclistic RideShare Case Study Dashboard
 
 The dashboard is designed to walk a non-technical stakeholder (e.g. the marketing director) from overall volume down through timing, duration, bike-type, and geographic patterns, closing with the station maps as the most actionable, visual takeaway. This addresses the key business metrics around bike usage, rider behavior, and ridership trends for strategic decision-making.
 
