@@ -1,5 +1,7 @@
 # Cyclistic-Rideshare-Project 🚲
 
+A ride-share company trip analysis to identify differences in ridership between casual riders and members. The findings from this analysis will be used for campaigns to convert casual riders to members.
+
 **Google Data Analytics Professional Certificate — Capstone Project**
 
 Cyclistic is a fictional bike-share company operating in Chicago. This project follows the six-phase data analysis process — Ask, Prepare, Process, Analyze, Share, Act — to understand how annual members and casual riders use Cyclistic bikes differently, with the goal of informing a marketing strategy to convert casual riders into annual members.
