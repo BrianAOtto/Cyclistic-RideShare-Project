@@ -99,4 +99,4 @@ Cyclistic historical bike trip data provided by Motivate International Inc. unde
 
 ## About Me
 
-I'm Brian Otto, a data analyst and project manager with 20+ years of experience in banking and technology, including 15 years at JPMorgan Chase. I'm building on that foundation with hands-on SQL, Tableau, and Python projects like this one — pursuing certifications (Google Data Analytics, and currently the Salesforce Tableau Data Analyst cert) to formalize and extend those skills.
+I am Brian Otto, a data analyst and project manager with 20+ years of experience in banking and technology, including 15 years at JPMorgan Chase. I'm building on that foundation with hands-on SQL, Tableau, and Python projects like this one — pursuing certifications (Google Data Analytics, and currently the Salesforce Tableau Data Analyst cert) to formalize and extend those skills.
